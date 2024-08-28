@@ -1,0 +1,52 @@
+restaurant,food_name,calories_kcal,total_fat_g,saturated_fat_g,cholesterol_mg,sodium_g,total_carb,fiber_g,sugar_g,protein_g,vitamin_A_mg,vitamin_C_mg,calcium_mg
+Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750,31,10,155,1940,62,2,18,55,6,25,20
+Mcdonalds,Lobster Roll,290,5,1.5,65,630,35,2,3,24,4,6,15
+Mcdonalds,McChicken,350,15,3.5,40,600,40,2,5,15,2,2,4
+Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,480,28,4.5,95,1290,21,0,1,38,0,0,2
+Mcdonalds,Premium Asian Salad w Grilled Chicken,270,9,1,80,740,18,5,10,31,180,70,10
+Chick Fil-A,Chargrilled Chicken Sandwich,310,6,2,55,820,36,3,7,29,25,40,10
+Chick Fil-A,4 piece ChicknStrips,470,23,3,90,1250,29,1,4,37,2,4,8
+Chick Fil-A,6 piece Chicken Nuggets,190,9,1.5,55,730,7,1,0,21,0,4,2
+Chick Fil-A,Chicken Salad Sandwich,490,19,3,80,1130,55,5,12,28,35,8,15
+Chick Fil-A,Smokehouse BBQ Bacon Sandwich,500,18,0,95,1200,46,2,10,33,45,40,20
+Sonic,Super Sonic Bacon Double Cheeseburger ,1280,92,36,260,1630,44,2,7,67,15,6,40
+Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610,30,7,110,1570,44,3,8,40,11,20,16
+Sonic,Small Jumbo Popcorn Chicken,380,22,4,45,1250,27,3,1,18,0,0,2
+Sonic,4 Piece Super Crunch Chicken Strips,440,21,4,70,900,34,2,1,29,1,2,1
+Sonic,All Beef Chili Cheese Coney ,410,26,11,65,1140,30,2,4,17,10,2,20
+Arbys,Beef n Cheddar Classic,450,20,6,50,1280,45,2,9,23,2,2,15
+Arbys,3 piece PrimeCut Chicken Tenders,360,17,2.5,45,950,28,2,0,23,0,4,2
+Arbys,Roast Turkey Swiss Sandwich,710,28,7,65,1930,79,5,15,38,20,10,45
+Arbys,Roast Turkey Ranch Bacon Wrap,620,34,11,85,2130,39,4,6,37,20,10,30
+Arbys,Crispy Chicken Farmhouse Salad,430,24,8,65,1000,26,4,4,28,60,20,25
+Dairy Queen,GrillBurger with Cheese,800,51,20,135,1280,44,3,13,40,25,6,35
+Dairy Queen,Mushroom Swiss GrillBurger,570,35,11,75,820,39,2,8,24,2,0,25
+Dairy Queen,Breaded Mushrooms,250,9,1,0,500,36,2,1,7,0,2,2
+Dairy Queen,Crispy Fish Sandwich,470,22,3,20,1210,53,2,7,17,10,2,6
+Dairy Queen,Grilled Chicken Wrap,280,15,4,30,800,22,1,1,15,10,4,10
+Subway,6 Chicken Bacon Ranch Melt,570,28,10,95,1080,47,5,8,35,15,25,50
+Subway,Footlong Veggie Delite,460,6,2,0,620,88,10,12,16,16,40,60
+Subway,Footlong Veggie Patty,780,14,2,20,1600,112,16,16,46,30,20,70
+Subway,Double Chicken Salad,220,5,1.5,100,490,10,4,4,36,50,60,8
+Subway,Roast Beef Salad,140,4,1,40,450,10,4,5,18,25,45,4
+Subway,Tuna Salad,310,24,4,40,370,10,4,4,15,50,50,6
+Subway,Veggie Delite Salad,50,1,0,0,65,9,4,4,3,25,45,4
+Subway,Pepperoni Pizza,790,32,13,60,1350,96,4,8,38,30,4,60
+Taco Bell,Steak Crunchy Cheesy Core Burrito,610,24,9,50,1520,75,5,5,25,10,4,40
+Taco Bell,Spicy Sweet Double Stacked Taco,340,18,7,35,640,32,4,6,12,10,2,15
+Taco Bell,Triple Melt Nachos,260,16,4.5,30,550,19,3,1,10,6,0,10
+Taco Bell,Crispy Chicken Quesadilla,650,37,13,75,1480,51,5,3,26,10,2,45
+Taco Bell,Spicy Triple Double Crunchwrap,780,38,10,50,1850,87,9,8,23,20,10,25
+Mcdonalds,Premium Asian Salad,140,7,0.5,0,20,13,5,7,7,180,45,10
+Chick Fil-A,8 piece Grilled Chicken Nuggets,140,4,1,70,440,2,0,0,25,0,10,2
+Subway,Oven Roasted Chicken Salad,140,3,0.5,50,280,10,4,4,19,50,60,8
+Subway,Subway Club Salad,140,4,1,40,640,11,4,5,17,25,45,6
+Chick Fil-A,4 piece Chicken Nuggets,130,6,1.5,40,490,5,1,0,14,0,2,2
+Chick Fil-A,1 Piece ChicknStrips,120,6,3,25,320,6,0,1,11,0,0,2
+Chick Fil-A,6 Piece Grilled Chicken Nuggets,110,3,1,50,330,2,0,0,19,0,8,0
+Subway,Black Forest Ham Salad,110,3,1,20,590,11,4,6,12,25,45,4
+Subway,Turkey Breast Ham Salad,110,3,1,25,580,11,4,5,12,25,45,6
+Subway,Turkey Breast Salad,110,2,1,20,570,11,4,5,12,25,45,6
+Sonic,Ultimate Chicken Club,100,64,15,100,2070,65,4,12,39,15,8,30
+Chick Fil-A,4 Piece Grilled Chicken Nuggets,70,2,1,35,220,1,0,0,13,0,6,0
+Arbys,Chopped Side Salad,70,5,2.5,15,100,4,1,2,5,35,10,10
