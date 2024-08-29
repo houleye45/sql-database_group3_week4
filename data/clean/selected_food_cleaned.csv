@@ -1,0 +1,166 @@
+,restaurant,food_name,calories_kcal,total_fat_g,saturated_fat_g,cholesterol_mg,sodium_g,carbohydrates_g,fiber_g,sugar_g,protein_g,vitamin_A_mg,vitamin_C_mg,calcium_mg,category
+0,Mcdonalds,Grilled Bacon Smokehouse Chicken Sandwich,750.0,31.0,10.0,155.0,1940.0,62.0,2.0,18.0,55.0,6.0,25.0,20.0,Fast Food
+1,Mcdonalds,Lobster Roll,290.0,5.0,1.5,65.0,630.0,35.0,2.0,3.0,24.0,4.0,6.0,15.0,Fast Food
+2,Mcdonalds,McChicken,350.0,15.0,3.5,40.0,600.0,40.0,2.0,5.0,15.0,2.0,2.0,4.0,Fast Food
+3,Mcdonalds,4 piece Buttermilk Crispy Chicken Tenders,480.0,28.0,4.5,95.0,1290.0,21.0,0.0,1.0,38.0,0.0,0.0,2.0,Fast Food
+4,Mcdonalds,Premium Asian Salad w Grilled Chicken,270.0,9.0,1.0,80.0,740.0,18.0,5.0,10.0,31.0,180.0,70.0,10.0,Fast Food
+5,Chick Fil-A,Chargrilled Chicken Sandwich,310.0,6.0,2.0,55.0,820.0,36.0,3.0,7.0,29.0,25.0,40.0,10.0,Fast Food
+6,Chick Fil-A,4 piece ChicknStrips,470.0,23.0,3.0,90.0,1250.0,29.0,1.0,4.0,37.0,2.0,4.0,8.0,Fast Food
+7,Chick Fil-A,6 piece Chicken Nuggets,190.0,9.0,1.5,55.0,730.0,7.0,1.0,0.0,21.0,0.0,4.0,2.0,Fast Food
+8,Chick Fil-A,Chicken Salad Sandwich,490.0,19.0,3.0,80.0,1130.0,55.0,5.0,12.0,28.0,35.0,8.0,15.0,Fast Food
+9,Chick Fil-A,Smokehouse BBQ Bacon Sandwich,500.0,18.0,0.0,95.0,1200.0,46.0,2.0,10.0,33.0,45.0,40.0,20.0,Fast Food
+10,Sonic,Super Sonic Bacon Double Cheeseburger ,1280.0,92.0,36.0,260.0,1630.0,44.0,2.0,7.0,67.0,15.0,6.0,40.0,Fast Food
+11,Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610.0,30.0,7.0,110.0,1570.0,44.0,3.0,8.0,40.0,11.0,20.0,16.0,Fast Food
+12,Sonic,Small Jumbo Popcorn Chicken,380.0,22.0,4.0,45.0,1250.0,27.0,3.0,1.0,18.0,0.0,0.0,2.0,Fast Food
+13,Sonic,4 Piece Super Crunch Chicken Strips,440.0,21.0,4.0,70.0,900.0,34.0,2.0,1.0,29.0,1.0,2.0,1.0,Fast Food
+14,Sonic,All Beef Chili Cheese Coney ,410.0,26.0,11.0,65.0,1140.0,30.0,2.0,4.0,17.0,10.0,2.0,20.0,Fast Food
+15,Arbys,Beef n Cheddar Classic,450.0,20.0,6.0,50.0,1280.0,45.0,2.0,9.0,23.0,2.0,2.0,15.0,Fast Food
+16,Arbys,3 piece PrimeCut Chicken Tenders,360.0,17.0,2.5,45.0,950.0,28.0,2.0,0.0,23.0,0.0,4.0,2.0,Fast Food
+17,Arbys,Roast Turkey Swiss Sandwich,710.0,28.0,7.0,65.0,1930.0,79.0,5.0,15.0,38.0,20.0,10.0,45.0,Fast Food
+18,Arbys,Roast Turkey Ranch Bacon Wrap,620.0,34.0,11.0,85.0,2130.0,39.0,4.0,6.0,37.0,20.0,10.0,30.0,Fast Food
+19,Arbys,Crispy Chicken Farmhouse Salad,430.0,24.0,8.0,65.0,1000.0,26.0,4.0,4.0,28.0,60.0,20.0,25.0,Fast Food
+20,Dairy Queen,GrillBurger with Cheese,800.0,51.0,20.0,135.0,1280.0,44.0,3.0,13.0,40.0,25.0,6.0,35.0,Fast Food
+21,Dairy Queen,Mushroom Swiss GrillBurger,570.0,35.0,11.0,75.0,820.0,39.0,2.0,8.0,24.0,2.0,0.0,25.0,Fast Food
+22,Dairy Queen,Breaded Mushrooms,250.0,9.0,1.0,0.0,500.0,36.0,2.0,1.0,7.0,0.0,2.0,2.0,Fast Food
+23,Dairy Queen,Crispy Fish Sandwich,470.0,22.0,3.0,20.0,1210.0,53.0,2.0,7.0,17.0,10.0,2.0,6.0,Fast Food
+24,Dairy Queen,Grilled Chicken Wrap,280.0,15.0,4.0,30.0,800.0,22.0,1.0,1.0,15.0,10.0,4.0,10.0,Fast Food
+25,Subway,6 Chicken Bacon Ranch Melt,570.0,28.0,10.0,95.0,1080.0,47.0,5.0,8.0,35.0,15.0,25.0,50.0,Fast Food
+26,Subway,Footlong Veggie Delite,460.0,6.0,2.0,0.0,620.0,88.0,10.0,12.0,16.0,16.0,40.0,60.0,Fast Food
+27,Subway,Footlong Veggie Patty,780.0,14.0,2.0,20.0,1600.0,112.0,16.0,16.0,46.0,30.0,20.0,70.0,Fast Food
+28,Subway,Double Chicken Salad,220.0,5.0,1.5,100.0,490.0,10.0,4.0,4.0,36.0,50.0,60.0,8.0,Fast Food
+29,Subway,Roast Beef Salad,140.0,4.0,1.0,40.0,450.0,10.0,4.0,5.0,18.0,25.0,45.0,4.0,Fast Food
+30,Subway,Tuna Salad,310.0,24.0,4.0,40.0,370.0,10.0,4.0,4.0,15.0,50.0,50.0,6.0,Fast Food
+31,Subway,Veggie Delite Salad,50.0,1.0,0.0,0.0,65.0,9.0,4.0,4.0,3.0,25.0,45.0,4.0,Fast Food
+32,Subway,Pepperoni Pizza,790.0,32.0,13.0,60.0,1350.0,96.0,4.0,8.0,38.0,30.0,4.0,60.0,Fast Food
+33,Taco Bell,Steak Crunchy Cheesy Core Burrito,610.0,24.0,9.0,50.0,1520.0,75.0,5.0,5.0,25.0,10.0,4.0,40.0,Fast Food
+34,Taco Bell,Spicy Sweet Double Stacked Taco,340.0,18.0,7.0,35.0,640.0,32.0,4.0,6.0,12.0,10.0,2.0,15.0,Fast Food
+35,Taco Bell,Triple Melt Nachos,260.0,16.0,4.5,30.0,550.0,19.0,3.0,1.0,10.0,6.0,0.0,10.0,Fast Food
+36,Taco Bell,Crispy Chicken Quesadilla,650.0,37.0,13.0,75.0,1480.0,51.0,5.0,3.0,26.0,10.0,2.0,45.0,Fast Food
+37,Taco Bell,Spicy Triple Double Crunchwrap,780.0,38.0,10.0,50.0,1850.0,87.0,9.0,8.0,23.0,20.0,10.0,25.0,Fast Food
+38,Mcdonalds,Premium Asian Salad,140.0,7.0,0.5,0.0,20.0,13.0,5.0,7.0,7.0,180.0,45.0,10.0,Fast Food
+39,Chick Fil-A,8 piece Grilled Chicken Nuggets,140.0,4.0,1.0,70.0,440.0,2.0,0.0,0.0,25.0,0.0,10.0,2.0,Fast Food
+40,Subway,Oven Roasted Chicken Salad,140.0,3.0,0.5,50.0,280.0,10.0,4.0,4.0,19.0,50.0,60.0,8.0,Fast Food
+41,Subway,Subway Club Salad,140.0,4.0,1.0,40.0,640.0,11.0,4.0,5.0,17.0,25.0,45.0,6.0,Fast Food
+42,Chick Fil-A,4 piece Chicken Nuggets,130.0,6.0,1.5,40.0,490.0,5.0,1.0,0.0,14.0,0.0,2.0,2.0,Fast Food
+43,Chick Fil-A,1 Piece ChicknStrips,120.0,6.0,3.0,25.0,320.0,6.0,0.0,1.0,11.0,0.0,0.0,2.0,Fast Food
+44,Chick Fil-A,6 Piece Grilled Chicken Nuggets,110.0,3.0,1.0,50.0,330.0,2.0,0.0,0.0,19.0,0.0,8.0,0.0,Fast Food
+45,Subway,Black Forest Ham Salad,110.0,3.0,1.0,20.0,590.0,11.0,4.0,6.0,12.0,25.0,45.0,4.0,Fast Food
+46,Subway,Turkey Breast Ham Salad,110.0,3.0,1.0,25.0,580.0,11.0,4.0,5.0,12.0,25.0,45.0,6.0,Fast Food
+47,Subway,Turkey Breast Salad,110.0,2.0,1.0,20.0,570.0,11.0,4.0,5.0,12.0,25.0,45.0,6.0,Fast Food
+48,Sonic,Ultimate Chicken Club,100.0,64.0,15.0,100.0,2070.0,65.0,4.0,12.0,39.0,15.0,8.0,30.0,Fast Food
+49,Chick Fil-A,4 Piece Grilled Chicken Nuggets,70.0,2.0,1.0,35.0,220.0,1.0,0.0,0.0,13.0,0.0,6.0,0.0,Fast Food
+50,Arbys,Chopped Side Salad,70.0,5.0,2.5,15.0,100.0,4.0,1.0,2.0,5.0,35.0,10.0,10.0,Fast Food
+51,Not Fast Food,chicken and rice casserole homade,27.0,1.0,0.0,0.0,0.0,2.4,0.3,0.0,2.0,0.0,0.0,0.0,General Food
+52,Not Fast Food,baked potato with cheese sauce bacon,451.0,25.9,10.1,29.9,1.0,44.4,0.0,0.0,18.4,0.2,28.7,308.0,General Food
+53,Not Fast Food,enchilada with cheese beef,323.0,17.6,9.0,40.3,1.3,30.5,0.0,0.0,11.9,0.016,1.3,228.5,General Food
+54,Not Fast Food,corned beef hash with potatoes,387.0,24.2,10.2,75.5,1.0,21.9,2.6,0.8,20.6,0.0,2.1,44.8,General Food
+55,Not Fast Food,quesadilla with chicken,529.0,27.5,11.1,66.6,1.3,43.3,3.1,3.4,27.1,0.1,0.2,484.2,General Food
+56,Not Fast Food,frijoles with cheese,225.0,7.8,4.1,36.7,0.9,28.7,0.0,0.0,11.4,0.008,1.5,188.7,General Food
+57,Not Fast Food,burrito with beef,285.0,8.1,1.7,2.6,0.5,43.9,4.4,4.1,9.1,0.036,0.1,0.042,General Food
+58,Not Fast Food,crispy chicken sandwich,350.0,17.6,3.3,0.0,0.7,33.2,0.0,3.9,14.8,0.0,0.0,46.6,General Food
+59,Not Fast Food,enchilada with cheese,374.0,25.3,11.5,57.5,0.7,21.2,2.6,3.6,15.4,0.7,0.2,0.0,General Food
+60,Not Fast Food,burrito with beans,224.0,6.7,3.4,2.2,0.5,35.7,0.0,0.0,7.0,0.0,1.0,56.4,General Food
+61,Not Fast Food,hummus,435.0,21.1,2.8,0.0,0.6,49.5,9.8,0.7,12.0,0.0,19.4,120.5,General Food
+62,Not Fast Food,enchirito with cheese beef beans,344.0,16.1,7.9,50.2,1.3,33.8,0.0,0.0,17.9,0.074,4.6,218.1,General Food
+63,Not Fast Food,taco with chicken cheese lettuce,185.0,6.2,2.5,28.4,0.6,19.3,1.2,1.3,13.0,0.014,0.2,119.6,General Food
+64,Not Fast Food,burrito with beans beef,460.0,18.0,7.0,62.7,1.4,47.0,7.2,5.3,27.8,0.096,4.6,216.9,General Food
+65,Not Fast Food,chicken sandwich with cheese,632.0,38.8,12.4,77.5,1.2,41.6,0.0,0.0,29.4,0.2,3.0,257.6,General Food
+66,Not Fast Food,nachos with cheese jalapeno peppers,608.0,34.1,14.0,83.6,1.7,60.1,0.0,0.0,16.8,0.4,1.0,620.2,General Food
+67,Not Fast Food,chimichanga with beef cheese,443.0,23.4,11.2,51.2,1.0,39.3,0.0,0.0,20.1,0.1,2.7,237.9,General Food
+68,Not Fast Food,tostada with guacamole,180.0,11.6,4.9,19.6,0.4,16.0,0.0,0.0,6.2,0.016,1.8,211.4,General Food
+69,Not Fast Food,chicken sandwich,468.0,20.9,4.0,65.5,1.4,39.1,2.6,6.8,30.4,0.077,0.7,0.012,General Food
+70,Not Fast Food,chimichanga with beef,425.0,19.7,8.5,8.7,0.9,42.8,0.0,0.0,19.6,0.0,4.7,62.6,General Food
+71,Not Fast Food,french toast with butter,178.0,9.4,3.9,58.1,0.3,18.0,0.0,0.0,5.2,0.088,0.004,36.5,General Food
+72,Not Fast Food,tostada with beef cheese,315.0,16.3,10.4,40.8,0.9,22.8,0.0,0.0,19.0,0.022,2.6,216.8,General Food
+73,Not Fast Food,tostada with beans cheese,223.0,9.9,5.4,30.2,0.5,26.5,0.0,0.0,9.6,0.011,1.3,210.2,General Food
+74,Not Fast Food,nachos with cheese,274.0,17.2,1.7,2.4,0.3,27.9,2.6,1.7,3.5,0.044,0.2,0.05,General Food
+75,Not Fast Food,taco with beef cheese lettuce,156.0,8.8,3.0,19.3,0.3,13.7,2.7,0.6,6.1,0.043,0.3,61.4,General Food
+76,Not Fast Food,burrito with beans cheese beef,165.0,6.6,3.6,61.9,0.5,19.8,0.0,0.0,7.3,0.0,2.5,65.0,General Food
+77,Not Fast Food,taco salad with chili con carne,193.0,8.8,4.0,3.5,0.6,17.7,0.0,0.0,11.6,0.1,2.3,163.6,General Food
+78,Not Fast Food,burrito with beans cheese,379.0,11.2,4.3,9.3,1.0,57.8,7.8,3.2,13.6,0.033,0.7,229.4,General Food
+79,Not Fast Food,fruit burrito,231.0,9.5,4.6,3.7,0.2,35.0,0.0,0.0,2.5,0.0,0.7,15.5,General Food
+80,Not Fast Food,spinach spaghetti cooked,182.0,0.9,0.1,0.0,0.061,36.6,0.0,0.0,6.4,0.0,0.0,42.0,General Food
+81,Not Fast Food,spaghetti with meat sauce,255.0,2.9,1.0,17.0,0.7,43.1,5.1,7.4,14.3,0.0,15.3,50.9,General Food
+82,Not Fast Food,pasta with meatballs in tomato sauce,273.0,13.0,5.0,23.0,0.7,28.3,6.9,7.2,10.6,0.052,7.7,30.6,General Food
+83,Not Fast Food,pasta with sliced franks in tomato sauce,227.0,6.0,2.5,22.7,0.7,32.0,4.0,8.0,11.0,0.054,9.6,151.2,General Food
+84,Not Fast Food,lasagna,166.0,6.1,2.9,20.9,0.5,18.9,2.1,3.8,9.0,0.2,0.2,0.08,General Food
+85,Not Fast Food,pasta with tomato sauce,176.0,1.8,0.4,15.1,1.0,35.1,2.3,10.1,5.6,0.071,0.1,0.083,General Food
+86,Not Fast Food,vegetable chicken soup,166.0,4.8,1.4,16.9,0.075,21.1,1.0,3.4,12.3,0.05,5.5,26.5,General Food
+87,Not Fast Food,bean ham soup,198.0,2.5,0.6,4.9,0.5,33.5,9.8,7.8,10.3,0.0,2.7,93.1,General Food
+88,Not Fast Food,cream of chicken soup,227.0,14.5,4.3,20.2,1.8,18.0,0.0,1.4,6.0,0.1,0.3,35.3,General Food
+89,Not Fast Food,tomato soup canned,139.0,3.3,1.8,10.1,0.5,22.6,1.5,16.5,6.3,0.014,15.9,173.9,General Food
+90,Not Fast Food,egg drop soup,65.0,1.5,0.4,55.4,0.9,10.3,1.0,0.2,2.8,0.002,15.7,16.9,General Food
+91,Not Fast Food,cream of onion soup,268.0,12.8,3.6,36.6,1.9,31.7,1.2,11.1,6.7,0.08,3.1,82.4,General Food
+92,Not Fast Food,vegetable soup with beef broth,162.0,3.8,0.9,2.5,1.3,26.3,3.2,4.0,6.0,0.2,4.7,34.4,General Food
+93,Not Fast Food,chili with beans canned,287.0,14.1,6.0,43.5,1.3,30.5,11.3,3.0,14.6,0.0,4.4,120.3,General Food
+94,Not Fast Food,beef noodle soup,168.0,6.2,2.3,10.0,1.6,17.9,1.5,5.2,9.6,0.037,0.8,30.0,General Food
+95,Not Fast Food,chicken mushroom soup,126.0,6.1,1.6,10.1,0.8,15.1,4.0,1.0,2.0,0.04,0.0,29.0,General Food
+96,Not Fast Food,beef vegetable soup,120.0,2.9,1.0,17.5,0.8,15.4,3.0,3.1,8.0,0.3,9.0,45.0,General Food
+97,Not Fast Food,black bean soup,234.0,3.4,0.9,0.0,2.5,39.6,17.5,6.4,12.4,0.0,0.5,90.0,General Food
+98,Not Fast Food,split pea soup with ham bacon,189.0,3.1,0.9,4.1,1.0,28.6,4.1,0.0,11.6,0.0,0.0,0.0,General Food
+99,Not Fast Food,cream of mushroom soup,199.0,13.4,2.4,0.0,1.7,17.1,1.8,1.0,3.4,0.057,0.0,30.2,General Food
+100,Not Fast Food,green pea soup,320.0,5.7,2.7,0.0,1.7,51.7,10.0,16.7,16.7,0.067,3.3,53.8,General Food
+101,Not Fast Food,chicken broth soup,78.0,2.6,0.8,2.5,1.6,1.9,0.0,0.9,11.1,0.0,0.0,15.1,General Food
+102,Not Fast Food,chicken mushroom chowder soup,431.0,23.7,6.2,32.3,1.8,38.3,7.5,0.0,16.2,0.0,10.8,0.0,General Food
+103,Not Fast Food,chicken dumplings soup,235.0,13.4,3.2,80.5,1.8,14.7,1.2,1.4,13.6,0.077,0.0,35.8,General Food
+104,Not Fast Food,chicken vegetable soup,148.0,5.6,1.7,16.9,1.7,17.0,1.7,3.0,7.1,0.028,1.9,33.9,General Food
+105,Not Fast Food,turkey vegetable soup,72.0,3.0,0.9,2.4,0.9,8.6,0.5,2.6,3.1,0.1,0.0,16.9,General Food
+106,Not Fast Food,wonton soup,71.0,0.6,0.1,8.9,0.9,11.7,0.4,0.8,4.6,0.043,1.6,11.2,General Food
+107,Not Fast Food,mushroom barley soup,186.0,5.5,1.1,0.0,1.7,29.3,0.0,0.0,4.6,0.0,0.0,30.5,General Food
+108,Not Fast Food,gazpacho soup,70.0,0.4,0.008,0.0,1.1,6.6,0.7,2.2,10.7,0.0,10.7,36.9,General Food
+109,Not Fast Food,beef mushroom soup,186.0,7.3,3.7,15.3,2.2,15.9,0.6,0.0,14.0,0.0,0.0,12.2,General Food
+110,Not Fast Food,chicken rice soup,127.0,3.2,1.0,12.0,0.9,13.0,1.0,1.4,12.3,0.047,3.8,33.6,General Food
+111,Not Fast Food,pepperpot soup,100.0,4.5,2.0,9.7,0.9,9.1,0.5,0.0,6.2,0.0,1.2,26.7,General Food
+112,Not Fast Food,vegetable soup,149.0,4.0,0.6,0.0,1.3,24.6,1.3,7.9,4.3,0.0,3.0,42.8,General Food
+113,Not Fast Food,chili beef soup,308.0,6.7,3.3,26.3,2.1,49.6,6.6,13.4,13.4,0.2,0.3,0.072,General Food
+114,Not Fast Food,chicken soup,174.0,6.5,1.9,29.4,0.9,16.9,1.5,2.1,12.4,0.027,1.2,24.5,General Food
+115,Not Fast Food,bean with frankfurters soup,188.0,7.0,2.1,12.5,1.1,22.0,0.0,0.0,10.0,0.0,1.0,87.5,General Food
+116,Not Fast Food,pea soup,161.0,2.8,1.4,0.0,0.015,25.6,4.9,8.3,8.3,0.055,1.6,31.1,General Food
+117,Not Fast Food,turkey soup,135.0,4.4,1.2,9.4,0.9,14.1,0.0,0.0,10.2,0.0,6.4,49.6,General Food
+118,Not Fast Food,stockpot soup,201.0,7.8,1.7,7.7,2.1,23.1,0.0,0.0,9.8,0.0,4.1,43.9,General Food
+119,Not Fast Food,hot sour soup,91.0,2.8,0.5,48.9,0.9,10.1,1.2,1.0,6.0,0.088,0.0,44.3,General Food
+120,Not Fast Food,cheese soup,203.0,9.7,6.1,7.4,1.7,28.0,5.5,9.3,2.0,0.2,0.0,89.3,General Food
+121,Not Fast Food,cream of potato soup,186.0,4.7,2.4,2.5,1.5,32.2,3.3,3.6,3.8,0.087,0.5,42.8,General Food
+122,Not Fast Food,bean with bacon soup,106.0,2.1,1.0,2.7,0.9,16.4,9.0,0.6,5.5,0.0,1.1,55.7,General Food
+123,Not Fast Food,beef broth soup,17.0,0.5,0.3,0.0,0.9,0.01,0.0,0.0,2.7,0.0,0.0,14.4,General Food
+124,Not Fast Food,lentil soup with ham,139.0,2.8,1.1,7.4,1.3,20.2,0.0,0.0,9.3,0.0,4.2,42.2,General Food
+125,Not Fast Food,tomato soup,98.0,0.7,0.2,0.0,0.6,22.5,1.6,12.2,2.2,0.0,19.1,19.2,General Food
+126,Not Fast Food,chili without beans canned,283.0,17.0,5.4,50.4,0.9,14.6,0.0,0.0,18.1,0.0,4.3,72.0,General Food
+127,Not Fast Food,minestrone soup,167.0,5.0,1.1,2.5,1.3,22.6,2.0,3.7,8.6,0.0,2.2,68.9,General Food
+128,Not Fast Food,clam chowder soup,154.0,4.4,0.8,5.0,1.8,24.5,3.0,6.8,4.4,0.051,8.1,47.9,General Food
+129,Not Fast Food,tomato vegetable soup,54.0,0.8,0.4,0.0,0.3,9.9,0.7,2.4,1.9,0.0,2.9,19.6,General Food
+130,Not Fast Food,cream of celery soup,181.0,11.2,2.8,27.7,1.3,17.7,1.5,3.4,3.3,0.042,0.5,80.6,General Food
+131,Not Fast Food,tomato rice soup,240.0,5.5,1.0,2.6,1.6,44.1,3.4,15.2,4.2,0.042,29.7,46.4,General Food
+132,Not Fast Food,vegetable beef soup,128.0,2.0,0.6,8.8,1.1,9.6,4.4,0.0,18.1,0.0,0.0,0.0,General Food
+133,Not Fast Food,tomato beef noodle soup,281.0,8.6,3.2,7.5,1.8,42.3,3.0,0.0,8.9,0.0,0.0,35.1,General Food
+134,Not Fast Food,oyster stew soup,118.0,7.7,5.0,27.1,1.8,8.2,0.0,0.0,4.2,0.0,6.4,44.3,General Food
+135,Not Fast Food,ramen noodle soup dry,371.0,13.3,6.4,0.0,1.7,53.9,2.0,1.3,8.9,0.0,0.3,24.7,General Food
+136,Not Fast Food,chicken noodle soup,145.0,4.7,1.2,24.2,2.1,18.4,2.7,0.0,7.2,0.029,0.1,0.0,General Food
+137,Not Fast Food,cream of asparagus soup,174.0,8.2,2.1,10.1,1.7,21.5,1.0,1.8,4.6,0.091,5.5,58.0,General Food
+138,Not Fast Food,turkey noodle soup,139.0,4.0,1.1,10.1,1.6,17.3,1.5,1.0,7.8,0.082,0.3,22.7,General Food
+139,Not Fast Food,cream of shrimp soup,181.0,10.4,6.5,32.8,1.7,16.5,0.5,0.0,5.6,0.026,0.0,35.3,General Food
+140,Not Fast Food,bean with pork soup,335.0,11.5,3.0,5.2,1.7,44.1,15.3,7.8,15.3,0.021,3.1,156.0,General Food
+141,Not Fast Food,split pea soup,180.0,2.3,0.8,5.1,0.4,29.9,4.8,12.8,9.7,0.0,0.0,43.0,General Food
+142,Not Fast Food,escarole soup,61.0,4.0,1.2,5.5,2.3,4.0,0.0,0.0,3.4,0.0,10.0,71.9,General Food
+143,Not Fast Food,tomato bisque soup,248.0,5.0,1.1,10.3,1.8,47.7,2.1,0.0,4.5,0.017,11.9,80.0,General Food
+144,Not Fast Food,shark fin soup,99.0,4.3,1.1,4.3,1.1,8.2,0.0,0.0,6.9,0.0,0.2,21.6,General Food
+145,Not Fast Food,onion soup,113.0,3.5,0.5,0.0,1.3,16.4,1.7,6.7,7.5,0.02,2.5,54.1,General Food
+146,Not Fast Food,chicken gumbo soup,113.0,2.9,0.7,7.6,1.7,16.8,4.0,4.9,5.3,0.0,10.1,47.9,General Food
+147,Not Fast Food,crab soup,95.0,0.8,0.2,41.5,0.6,12.5,2.4,0.0,10.4,0.0,9.3,83.0,General Food
+148,Not Fast Food,tripe soup,148.0,5.2,2.1,118.0,0.8,8.1,0.0,0.0,17.2,0.0,0.0,44.0,General Food
+149,Not Fast Food,spaghetti with meatballs,200.0,8.2,2.9,14.0,0.6,22.9,5.4,5.8,8.7,0.2,0.1,0.036,General Food
+150,Not Fast Food,steak sandwich,459.0,14.1,3.8,73.4,0.8,52.0,0.0,0.0,30.3,0.0,5.5,91.8,General Food
+151,Not Fast Food,premium grilled chicken classic sandwich mcdonalds,366.0,8.6,1.7,68.0,0.8,44.6,2.8,10.0,28.3,0.051,6.4,74.0,General Food
+152,Not Fast Food,premium grilled chicken club sandwich mcdonalds,493.0,18.0,6.4,102.6,1.0,44.3,2.7,6.4,38.3,0.0,9.8,211.9,General Food
+153,Not Fast Food,premium crispy chicken classic sandwich mcdonalds,524.0,20.0,3.2,59.8,1.0,58.6,3.2,12.4,27.8,0.0,5.8,78.2,General Food
+154,Not Fast Food,beef sandwich steak raw,173.0,15.1,6.5,39.8,0.043,0.0,0.0,0.0,9.2,0.0,0.0,6.7,General Food
+155,Not Fast Food,premium grilled chicken ranch blt sandwich mcdonalds,412.0,10.9,3.0,76.8,1.0,44.3,2.8,10.5,33.7,0.0,9.9,76.8,General Food
+156,Not Fast Food,sandwich with cold cuts,833.0,39.3,13.9,105.6,2.2,79.9,4.7,12.4,41.1,0.5,0.8,0.023,General Food
+157,Not Fast Food,grilled chicken sandwich wendys,370.0,8.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,General Food
+158,Not Fast Food,sandwich with roast beef,410.0,13.0,7.1,73.4,0.8,44.3,0.0,0.0,28.6,0.03,5.6,41.0,General Food
+159,Not Fast Food,roast beef sandwich,364.0,15.3,5.1,44.7,1.0,33.1,1.9,5.7,22.6,0.6,0.3,0.039,General Food
+160,Not Fast Food,roast beef sandwich with cheese,473.0,18.0,9.0,77.4,1.6,45.4,0.0,0.0,32.2,0.082,0.0,183.0,General Food
+161,Not Fast Food,premium fish sandwich burger king,572.0,27.4,4.3,68.2,1.3,58.7,2.0,7.8,22.6,0.0,0.4,81.4,General Food
+162,Not Fast Food,sandwich with tuna salad,584.0,28.0,5.3,48.6,1.3,55.4,0.0,0.0,29.7,0.004,3.6,74.2,General Food
+163,Not Fast Food,fish sandwich with cheese,374.0,19.6,3.8,49.6,0.6,35.4,0.0,4.9,15.1,0.0,2.0,160.8,General Food
+164,Not Fast Food,fish sandwich,565.0,27.4,4.3,77.0,1.3,58.7,0.0,7.8,22.6,0.2,0.2,0.0,General Food
