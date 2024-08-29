@@ -21,6 +21,7 @@ Before this starting this project, you should have learnt about:
 - Filters
 - Pandas and Numpy
 - Basic Statistics
+- SQL
  
   <br>
   <hr> 
